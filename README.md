@@ -1,2 +1,2 @@
-# csLog
-Simple logging for C# 
+# ClassicLogger
+A classic log-file utility for C#
